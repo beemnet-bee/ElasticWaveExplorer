@@ -1,0 +1,5 @@
+{
+  "name": "Elastic Wave Explorer",
+  "description": "An interactive physics simulator for elastic wave propagation. Visualize P-waves and S-waves, adjust material properties like Young's Modulus and density, and explore real-world material behaviors with an AI-powered physics guide.",
+  "requestFramePermissions": []
+}
